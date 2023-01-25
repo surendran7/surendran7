@@ -1,5 +1,5 @@
                                                                
-                                                           I'm Surendran
+                                                       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 🧑🏻‍💻 # I've been breaking insecure software and building secure software for quite a while. I really enjoy abusing stacks, heaps, function pointers, kernel objects, structures, drivers, etc. Make no mistake: I'm up to no good. 🧩
