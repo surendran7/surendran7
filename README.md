@@ -3,7 +3,7 @@
 - 📫 How to reach me **surendranlive@gmail.com**
 
 - ⚡ Fun fact **I've been breaking insecure software and building secure software for quite a while..**
-- ⚡ Fun fact **Yeah I really enjoy abusing stacks, heaps, function pointers, kernel objects, structures, drivers, etc.**
+- ⚡ Yeah I really enjoy abusing stacks, heaps, function pointers, kernel objects, structures, drivers, etc.**
 
 
 
